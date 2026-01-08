@@ -16,7 +16,8 @@ const models = [
 
 wppconnect
   .create({
-    headless: false,
+    headless: true,
+    args: ['--no-sandbox', '--disable-setuid-sandbox'], // Required for Docker/Linux
   })
   .then((client) => start(client))
   .catch((error) => {
