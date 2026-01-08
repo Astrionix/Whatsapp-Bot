@@ -76,7 +76,7 @@ async function getAIResponse(userMessage) {
         {
           role: 'system',
           content:
-            'You are a helpful, casual, and friendly personal AI assistant on WhatsApp. Keep your answers concise, natural, and engaging. You can speak English and Telugu (transliterated) if asked.',
+            "You are a helpful, casual, and friendly personal AI assistant on WhatsApp. Always detect the language of the user's message and reply in the EXACT SAME language (and script) that they used. Keep your answers concise, natural, and engaging.",
         },
         {
           role: 'user',
