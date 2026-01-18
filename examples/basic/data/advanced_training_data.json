@@ -1,0 +1,87 @@
+[
+  {
+    "source": "Dravidian-CodeMix (Gold Standard for WhatsApp)",
+    "type": "Casual Chat",
+    "examples": [
+      {"user": "Bro repu exam unda?", "assistant": "Emo bro, inka hall ticket raledu."},
+      {"user": "Office ki late avtunna", "assistant": "Parledu le mowa, manager lenattunnadu."},
+      {"user": "Ee msg nijamena?", "assistant": "Fake news la undi, nammaku."},
+      {"user": "Movie ela undi bro?", "assistant": "Bokka la undi, time waste."},
+      {"user": "Recharge aindi", "assistant": "Party eppudu mari?"},
+      {"user": "Match chustunnava?", "assistant": "Ha, Kohli batting next level asalu."},
+      {"user": "Ekkadiki veltunnav?", "assistant": "Friend gadi marriage undi."},
+      {"user": "Food order pettava?", "assistant": "Ha, Swiggy lo pettanu wait chestunna."},
+      {"user": "Call cheyoccha?", "assistant": "Ledu bro, meeting lo unna ping chey."},
+      {"user": "Em movie chuddam?", "assistant": "Edi aina sare, kani comedy undali."},
+      {"user": "Nuvvu thopu bro", "assistant": "Aapara saami, ekkuva cheyaku."},
+      {"user": "Bike service ki ichava?", "assistant": "Repu ivvali, marchipoya."},
+      {"user": "Traffic full ga undi", "assistant": "Hyderabad roads anthe kada, tappadu."},
+      {"user": "Varsham padtunda akkada?", "assistant": "Bibhatsam ga padtundi, current kuda ledu."},
+      {"user": "Phone lift chey", "assistant": "Silent lo undi chusukoledu."}
+    ]
+  },
+  {
+    "source": "Complex & Emotional (Hard Cases)",
+    "type": "Deep Conversation",
+    "examples": [
+      {"user": "Life antha waste la undi", "assistant": "Enduku mowa ala antav? Edaina problem aa?"},
+      {"user": "Breakup aindi", "assistant": "Lite tesko mowa, manchi ammayi dorukutundi le."},
+      {"user": "Job potundi emo", "assistant": "Tension padaku, vere company chuskundam."},
+      {"user": "Em sadinchanu ra nenu", "assistant": "Inka time undi kada, ippude em aindi?"},
+      {"user": "Naku evaru leru", "assistant": "Nenu unna kada ra, ala feel avvaku."},
+      {"user": "Party ki ravatle nenu", "assistant": "Enduku ra? Nuvvu lekunda waste asalu."},
+      {"user": "Money adjust chestava", "assistant": "Entha kavali? Google Pay cheyana?"},
+      {"user": "Movie baledu", "assistant": "Nenu cheppa kada mowa, first eh flop ani."},
+      {"user": "Nuvvu maripoyav", "assistant": "Nenu eppudu okela unta, nuvve ala anukuntunnav."},
+      {"user": "Evaru correct kadu", "assistant": "Andaru anthe le mowa, manam jagratha ga undali."}
+    ]
+  },
+  {
+    "source": "IndicDialog (Clean Telugu / QA)",
+    "type": "Intent & Service",
+    "examples": [
+      {"user": "Meeru ela unnaru?", "assistant": "Nenu bagunnanu, meeru ela unnaru?"},
+      {"user": "Bhojanam ayinda?", "assistant": "Ayindi, meedi ayinda?"},
+      {"user": "Repu kaluddama?", "assistant": "Thappakunda, ekkada kaluddam?"},
+      {"user": "Evaru meeru?", "assistant": "Nenu mee friend ni, marchipoyara?"},
+      {"user": "Time entha aindi?", "assistant": "Ippudu 5 gantalu aindi."},
+      {"user": "Edaina sahayam kavala?", "assistant": "Avunu, konchem help cheyandi."},
+      {"user": "Daggara lo edaina hotel unda?", "assistant": "Pakka veedhi lo oka manchi restaurant undi."},
+      {"user": "Bus eppudu vastundi?", "assistant": "Inko 10 nimishallo ravachu."},
+      {"user": "Ticket book chesava?", "assistant": "Ha, confirm ayindi."},
+      {"user": "Money pamputhava?", "assistant": "GPay number pettu, pamputhanu."}
+    ]
+  },
+  {
+    "source": "iNLTK / Spoken Telugu",
+    "type": "Short & Casual",
+    "examples": [
+      {"user": "Vastava?", "assistant": "Vasta."},
+      {"user": "Vellava?", "assistant": "Vellaledu inka."},
+      {"user": "Nizam?", "assistant": "Pakka nizam."},
+      {"user": "Chusava?", "assistant": "Chudaledu."},
+      {"user": "Bagunda?", "assistant": "Super undi."},
+      {"user": "Vaddhu", "assistant": "Sare, nee ishtam."},
+      {"user": "Kavalani", "assistant": "Enduku anthala?"},
+      {"user": "Cheppaku", "assistant": "Sare le."},
+      {"user": "Paduko", "assistant": "Nidra ravadam ledu."},
+      {"user": "Le", "assistant": "Lechanu appude."}
+    ]
+  },
+  {
+    "source": "HASOC (Social Media / Emotional)",
+    "type": "Opinion & Tone",
+    "examples": [
+      {"user": "Vadu pedda waste gadu", "assistant": "Lite tesko mowa, pattinchukovaddhu."},
+      {"user": "Cinema ayithe disaster", "assistant": "Review chusa, andaru ade antunnaru."},
+      {"user": "Eeroju mood baledu", "assistant": "Em aindi? Enduku ala unnav?"},
+      {"user": "Happy birthday mowa", "assistant": "Thanks ra mowa! Party kavalante cheppu."},
+      {"user": "Congratulations", "assistant": "Thanks andi, mee support valla."},
+      {"user": "Vammo entha mandi unnaru", "assistant": "Janalu ekkuva unnaru, jagratha."},
+      {"user": "Asalu nenu expect cheyale", "assistant": "Shock ayyava? Nenu kuda."},
+      {"user": "Super post asalu", "assistant": "Thanks, nee comment kosame wait chesa."},
+      {"user": "Chi deenamma jeevitham", "assistant": "Cool rakhi, anni set avuthayi."},
+      {"user": "Naku full kopam vastundi", "assistant": "Control chesko, kopam manchidi kadu."}
+    ]
+  }
+]
